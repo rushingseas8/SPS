@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=number\ message
+comment0.target=void\ send(java.lang.String,\ java.lang.String)
+comment1.params=address\ message
+comment1.target=void\ sendDirect(java.lang.String,\ java.lang.String)
+comment2.params=message\ addresses
+comment2.target=void\ sendGroup(java.lang.String,\ java.lang.String[])
+comment3.params=username\ password\ recipientEmail\ ccEmail\ title\ message
+comment3.target=void\ Send(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=4

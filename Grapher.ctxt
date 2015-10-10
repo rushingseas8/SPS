@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=void\ run()
+comment2.params=aa\ bb
+comment2.target=void\ graph(javafx.geometry.Point3D,\ java.lang.Object)
+numComments=3

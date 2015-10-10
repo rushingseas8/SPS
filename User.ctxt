@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s\ p
+comment0.target=User(java.lang.String,\ javafx.geometry.Point3D)
+comment1.params=p
+comment1.target=void\ setPosition(javafx.geometry.Point3D)
+comment2.params=
+comment2.target=javafx.geometry.Point3D\ getPosition()
+numComments=3

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment0.text=\ \n\ main\ method\ runs\ while\ loop\ to\ get\ user\ position\ and\ call\ check\ method\ with\ parameters\ user\ position\ and\ zoneArray\n
+comment1.params=
+comment1.target=void\ run()
+comment10.params=b
+comment10.target=void\ setRunning(boolean)
+comment2.params=pos\ zones
+comment2.target=Zone\ check(javafx.geometry.Point3D,\ java.util.ArrayList)
+comment2.text=\n\ takes\ parameters\ user\ position\ and\ ArrayList\ of\ Zone\ objects\n\ calls\ danger\ method\ with\ user\ position\ and\ each\ zone\ in\ ArrayList\n\ returns\ Zone\ that\ puts\ user\ in\ danger,\ null\ otherwise\n
+comment3.params=pos\ z
+comment3.target=boolean\ danger(javafx.geometry.Point3D,\ Zone)
+comment3.text=\n\ takes\ parameters\ user\ position\ and\ single\ Zone\ object\n\ based\ on\ type\ of\ Zone\ object,\ previous\ position\ relative\ to\ zone,\ and\ state\ of\ Zone\n\ danger\ method\ returns\ true\ if\ user\ is\ in\ danger,\ false\ otherwise\n
+comment4.params=
+comment4.target=void\ initialize()
+comment5.params=
+comment5.target=void\ parse()
+comment6.params=p
+comment6.target=void\ setUserPosition(javafx.geometry.Point3D)
+comment7.params=
+comment7.target=javafx.geometry.Point3D\ getUserPosition()
+comment8.params=z
+comment8.target=void\ setZoneArray(java.util.ArrayList)
+comment9.params=
+comment9.target=java.util.ArrayList\ getZoneArray()
+numComments=11
